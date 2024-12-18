@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/random-quote/static/css/main.4babdcb3.css",
+    "main.js": "/random-quote/static/js/main.62d129f1.js",
+    "static/js/373.38bb6db1.chunk.js": "/random-quote/static/js/373.38bb6db1.chunk.js",
+    "static/media/fa-solid-900.ttf": "/random-quote/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/random-quote/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/random-quote/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/random-quote/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/random-quote/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/random-quote/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/random-quote/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/random-quote/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/random-quote/index.html",
+    "main.4babdcb3.css.map": "/random-quote/static/css/main.4babdcb3.css.map",
+    "main.62d129f1.js.map": "/random-quote/static/js/main.62d129f1.js.map",
+    "373.38bb6db1.chunk.js.map": "/random-quote/static/js/373.38bb6db1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4babdcb3.css",
+    "static/js/main.62d129f1.js"
+  ]
+}
